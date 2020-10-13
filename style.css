@@ -93,6 +93,6 @@ a:hover {
 	position: fixed; right: 0; bottom: 0;
  	min-width: 100%; min-height: 100%;
  	width: auto; height: auto; z-index: -100;
- 	background: url(ocean.jpg) repeat;
+ 	background: url(ocean.mp4) repeat;
  	background-size: cover;
 }
